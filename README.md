@@ -13,25 +13,25 @@ This project reads, analyzes, and visualizes earthquake data using CSV files. It
    git clone https://github.com/<username>/python-crash-course-eq_data.git
 Navigate to the project folder:
 
-bash
+
 Copy code
 cd python-crash-course-eq_data
 (Optional) Create a virtual environment and activate it:
 
-bash
+
 Copy code
 python -m venv 11_env
 11_env\Scripts\activate   # Windows
 source 11_env/bin/activate  # macOS/Linux
 Install any dependencies (if applicable):
 
-bash
+
 Copy code
 pip install -r requirements.txt
 Usage
 Run your Python scripts to analyze earthquake data:
 
-bash
+
 Copy code
 python your_script.py
 The project may include multiple scripts for different datasets or analyses.
